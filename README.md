@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Channa Dissanayaka
-- 👀 I’m interested in AI,Bio Medical Engineering,Robotics,Maths,Physics,Chemistry
-- 🌱 I’m currently learning Artificial Intelligence,python,C language,Java
+- 👀 I’m interested in AI,ML,Competitive Programming,Bio Medical Engineering,Robotics,Maths,Physics,Chemistry
+- 🌱 I’m currently following  a BSc(hons) in AI degree
 - 📫 How to reach me ywchanna@gmail.com
 - 
 
