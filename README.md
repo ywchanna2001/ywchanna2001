@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Channa Dissanayaka
-- 👀 I’m interested in AI,ML,Competitive Programming,Bio Medical Engineering,Robotics,Maths,Physics,Chemistry
-- 🌱 I’m currently following  a BSc(hons) in AI degree
-- 📫 How to reach me ywchanna@gmail.com
-- 
+Hi there
+I am Channa Dissanayaka from Sri Lanka, currently pursuing my undergraduate degree in BSc(hons) in AI. I have a genuine passion for language practice, competitive programming problem-solving, and exploring AI/ML technologies. Presently, I am expanding my skills in full-stack development.
 
-<!---
-ywchanna2001/ywchanna2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+For more details about my professional background and experiences, you can view my LinkedIn profile: www.linkedin.com/in/channa-dissanayaka-41ab7125a
+
+Thank you for your time, and I look forward to any insights or guidance you may have.
+
+Best regards,
+Channa Dissanayaka
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywchanna2001&theme=radical_icons=true)
