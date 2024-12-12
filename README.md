@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywchanna2001" alt="ywchanna2001" /></a> </p>
 
-- 🔭 I’m currently working on **my 2nd year software project and some individual projects**
-
-- 🌱 I’m currently learning **Springboot, Competitive programming and Deep learning**
+- 🌱 I’m currently learning **Machine Learning, Deep learning, Statistics and related subjects to AI/ML field**
 
 - 👯 I’m looking to collaborate on **AI/ML projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ywchanna2001](https://github.com/ywchanna2001)
 
-- 💬 Ask me about **Python, ML and GCP**
+- 💬 Ask me about **Python, ML, Deep Learning, Competitive programming and GCP**
 
 - 📫 How to reach me **ywchanna@gmail.com**
 
