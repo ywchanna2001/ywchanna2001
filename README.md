@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Channa Dissanayaka</h1>
-<h3 align="center">I am a BSc(hons) in AI(UG) student who like to use my knowledge to solve real world problems.</h3>
+<h3 align="center">Final Year BSc (Hons) AI Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ywchanna2001&label=Profile%20views&color=0e75b6&style=flat" alt="ywchanna2001" /> </p>
 
