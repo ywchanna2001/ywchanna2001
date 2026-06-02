@@ -7,15 +7,13 @@
   <img src="https://github-trophies.vercel.app/?username=ywchanna2001&theme=flat&no-frame=true&column=7&margin-w=8" />
 </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep learning, Statistics and related subjects to AI/ML field**
+- 🌱 I’m currently working on my final year research **AlphaFold Based Protein Conformational Ensemble Prediction**.
 
-- 👯 I’m looking to collaborate on **AI/ML projects.**
+- 👨‍💻 My main focuses are **Computer Vision, Deep Learning, AlphaFold,  and AI for Science**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ywchanna2001](https://github.com/ywchanna2001)
+- 💬 I’m looking to collaborate on research in **Computer vision and AI for science** fields.
 
-- 💬 Ask me about **Python, ML, Deep Learning, Competitive programming and GCP**
-
-- 📫 How to reach me **ywchanna@gmail.com**
+- 📫 How to reach me **ywchanna@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
