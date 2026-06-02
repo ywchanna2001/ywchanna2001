@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ywchanna2001&label=Profile%20views&color=0e75b6&style=flat" alt="ywchanna2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywchanna2001" alt="ywchanna2001" /></a> </p>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ywchanna2001&theme=flat&no-frame=true&column=7&margin-w=8" />
+</p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep learning, Statistics and related subjects to AI/ML field**
 
